@@ -1,5 +1,5 @@
 # Hovercraft
-A hovercraft built with the help of our mentors suring our summer program.  
+A hovercraft built with the help of our mentors suring our summer program. (Staff at ICAM France)  
   
 -Fritzing was used to design to PCB board and the wiring from PCB to Arduino Uno.  
 -Blynk app is used by connecting to a common wiFi. The wiFi board was connected to the Arduino through PCB.  
